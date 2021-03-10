@@ -1,2 +1,2 @@
 # pokedex
-<h1>Pokedex: estudando requisições ajax</h1>
+<p>Um simples <bloquequote>web app</bloquequote></p>
