@@ -1,2 +1,2 @@
 # pokedex
-<p>Um simples <bloquequote>web app</bloquequote></p>
+<p>Um simples <blockquote>web app</blockquote></p>
